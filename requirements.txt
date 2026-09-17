@@ -3,3 +3,4 @@ urllib3>=1.26.17,<3
 requests>=2.32.2,<3
 aiohttp
 websockets
+tldextract
